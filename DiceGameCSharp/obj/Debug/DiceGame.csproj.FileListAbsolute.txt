@@ -1,0 +1,8 @@
+C:\Users\Yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\bin\Debug\SlotMakinesiCSharp.exe.config
+C:\Users\Yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\bin\Debug\SlotMakinesiCSharp.exe
+C:\Users\Yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\bin\Debug\SlotMakinesiCSharp.pdb
+C:\Users\Yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\obj\Debug\SlotMakinesiCSharp.Form1.resources
+C:\Users\Yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\obj\Debug\SlotMakinesiCSharp.Properties.Resources.resources
+C:\Users\Yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\obj\Debug\DiceGame.csproj.GenerateResource.Cache
+C:\Users\Yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\obj\Debug\SlotMakinesiCSharp.exe
+C:\Users\Yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\obj\Debug\SlotMakinesiCSharp.pdb

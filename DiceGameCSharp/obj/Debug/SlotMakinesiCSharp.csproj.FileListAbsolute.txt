@@ -1,0 +1,9 @@
+c:\users\yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\bin\Debug\SlotMakinesiCSharp.exe.config
+c:\users\yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\bin\Debug\SlotMakinesiCSharp.exe
+c:\users\yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\bin\Debug\SlotMakinesiCSharp.pdb
+c:\users\yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\obj\Debug\SlotMakinesiCSharp.csprojResolveAssemblyReference.cache
+c:\users\yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\obj\Debug\SlotMakinesiCSharp.Form1.resources
+c:\users\yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\obj\Debug\SlotMakinesiCSharp.Properties.Resources.resources
+c:\users\yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\obj\Debug\SlotMakinesiCSharp.csproj.GenerateResource.Cache
+c:\users\yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\obj\Debug\SlotMakinesiCSharp.exe
+c:\users\yonca\documents\visual studio 2013\Projects\SlotMakinesiCSharp\SlotMakinesiCSharp\obj\Debug\SlotMakinesiCSharp.pdb
